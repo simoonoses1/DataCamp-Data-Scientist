@@ -1,4 +1,4 @@
-# Machine Learning Models Demo 🤖
+# Machine Learning Models for Data Science 🤖
 
 ## Introduction
 This repository contains a Jupyter notebook that demonstrates the use of two machine learning models, **RandomForest** and **Logistic Regression**, for predicting outcomes based on a set of predictor variables. The models are implemented in R. 📊
